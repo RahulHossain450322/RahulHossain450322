@@ -44,7 +44,8 @@ I can builds, designs, and maintains all websites and software applications. I k
 2.Express.js,
 3.Mongodb(database)
 
-Education and Experience Requirements:
+
+## 👨🏽‍💻 Education and Experience Requirements:
 
 1.Bachelor’s degree in computer science.
 2.Minimum of 2 years’ experience as a web developer.
